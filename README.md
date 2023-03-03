@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi! I'm João Rafael 👋🏼
 
-<!--
-**joaorafaelleite/joaorafaelleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning JAVA
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-rafael-leite/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![João Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=joaorafaelleite&show_icons=true&theme=dracula)
+
+### Technologies
+
+<div style="display: inline_block"></br>
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+<h5>
+  "The mind that opens to new ideas never returns to its original size" - Albert Einstein.
+</h5>
